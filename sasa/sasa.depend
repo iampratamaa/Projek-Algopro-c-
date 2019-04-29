@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556537319 source:e:\tugas-tugas\c++\sasa\main.cpp
+	<conio.h>
+	<iostream>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546690312 source:e:\tugas-tugas\c++\tugas 6\4. membalik_susunankal_ishq\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+

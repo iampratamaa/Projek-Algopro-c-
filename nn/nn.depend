@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556527597 source:e:\tugas-tugas\c++\nn\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+

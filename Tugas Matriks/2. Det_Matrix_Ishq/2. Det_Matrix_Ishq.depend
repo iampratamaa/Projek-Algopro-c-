@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554793175 source:e:\tugas-tugas\c++\tugas matriks\2. det_matrix_ishq\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+

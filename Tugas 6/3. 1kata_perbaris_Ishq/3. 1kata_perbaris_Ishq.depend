@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546646027 source:e:\tugas-tugas\c++\tugas 6\3. 1kata_perbaris_ishq\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+

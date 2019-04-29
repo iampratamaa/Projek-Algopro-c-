@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553200074 source:e:\tugas-tugas\c++\tanggal jawa\jaw\main.cpp
+	<iostream>
+	<stdio.h>
+
+1553203416 source:e:\tugas-tugas\c++\tanggal jawa\kalender_jawa_ishq\main.cpp
+	<iostream>
+	<stdio.h>
+

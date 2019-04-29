@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539449124 source:e:\tugas-tugas\code block\kalkulator_2operand_ish\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546670833 source:e:\tugas-tugas\c++\tugas 6\6. daftar_belanja_ishq\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+

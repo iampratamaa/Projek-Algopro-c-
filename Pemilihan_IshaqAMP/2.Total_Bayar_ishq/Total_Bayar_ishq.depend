@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539446070 source:e:\tugas-tugas\code block\total_bayar_ishq\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+

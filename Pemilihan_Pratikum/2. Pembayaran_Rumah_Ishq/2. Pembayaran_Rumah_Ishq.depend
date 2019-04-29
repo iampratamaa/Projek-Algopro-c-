@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544888475 source:e:\tugas-tugas\array\2. pembayaran_rumah_ishq\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1544888792 source:e:\tugas-tugas\c++\pemilihan_pratikum\2. pembayaran_rumah_ishq\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
